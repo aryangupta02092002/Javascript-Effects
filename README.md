@@ -4,3 +4,4 @@
 3. Custom Cursor
 4. Multiple Image hovering animation
 5. Insta Story Feature
+6. Landing page using Shery JS
